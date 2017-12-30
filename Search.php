@@ -118,7 +118,7 @@ if(isset($_SESSION['Username'])) {
                                 echo "<br/>";
                             } else {
                                 for ($l = 0; $l < $Locsize; $l++) {
-                                    if ($Location(l) == $loc) {
+                                    if ($Location[$l] == $loc) {
 //printout
                                         echo " Size : ";
                                         print_r($temparr[$i][0]);
