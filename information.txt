@@ -1,0 +1,4 @@
+3.5,Downtown,500,adress1
+4.5,Downtown,1000,adress12
+3.5,Downtown,700,adress123
+5.5,Downtown,500,adress1543
